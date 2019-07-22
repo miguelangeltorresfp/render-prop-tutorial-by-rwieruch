@@ -1,4 +1,10 @@
+# React's Render Props Pattern - Children as a Function
+
+[LINK](https://www.robinwieruch.de/react-render-props-pattern/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+`yarn create react-app render-prop-tutorial`
 
 ## Available Scripts
 
